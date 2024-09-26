@@ -1,6 +1,6 @@
 # **ABZ Shop** 🛍️
 
-![ABZ Shop Logo](https://example.com/logo.png) <!-- Replace with actual logo URL -->
+![ABZ Shop Logo](https://github.com/burhangi/Django-EShop-website/blob/main/Screenshot%20(133).png) <!-- Replace with actual logo URL -->
 
 ### **Welcome to ABZ Shop!** Your one-stop destination for all your shopping needs. From electronics to fashion, we have it all at the best prices.
 
