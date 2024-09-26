@@ -79,8 +79,10 @@ Manage your e-commerce store efficiently with the **Admin Panel**!
 - 🗑️ **Remove Products**: Select and confirm deletion.
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <div style="flex: 50%;">
-    <img src="https://github.com/burhangi/Django-EShop-website/blob/main/Screenshot%20(143).png/300x200" alt="Delete Product" style="width: 100%; height: auto; border-radius: 8px;"/>
+<div style="flex: 50%;">
+    <img src="https://github.com/burhangi/Django-EShop-website/blob/main/Screenshot%20(143).png" alt="Delete Product" style="width: 100%; height: auto; border-radius: 8px;"/>
+</div>
+
   </div>
   <div style="flex: 50%; padding-left: 20px;">
     <ul>
