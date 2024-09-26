@@ -66,8 +66,10 @@ Manage your e-commerce store efficiently with the **Admin Panel**!
       <li>📊 **Manage Inventory** easily.</li>
     </ul>
   </div>
-  <div style="flex: 50%;">
-    <img src="https://github.com/burhangi/Django-EShop-website/blob/main/Screenshot%20(142).png/300x200" alt="Add Product" style="width: 100%; height: auto; border-radius: 8px;"/>
+<div style="flex: 50%;">
+    <img src="https://github.com/burhangi/Django-EShop-website/blob/main/Screenshot%20(142).png" alt="Add Product" style="width: 100%; height: auto; border-radius: 8px;"/>
+</div>
+
   </div>
 </div>
 
