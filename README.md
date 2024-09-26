@@ -108,7 +108,7 @@ Manage your e-commerce store efficiently with the **Admin Panel**!
     </ul>
   </div>
   <div style="flex: 50%;">
-    <img src="https://via.placeholder.com/300x200" alt="Add Category" style="width: 100%; height: auto; border-radius: 8px;"/>
+    <img src="https://github.com/burhangi/Django-EShop-website/blob/main/Screenshot%20(146).png" alt="Add Category" style="width: 100%; height: auto; border-radius: 8px;"/>
   </div>
 </div>
 
